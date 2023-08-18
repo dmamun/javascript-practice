@@ -1,4 +1,4 @@
-const result=Math.pow(3,8);
+const result=Math.pow(3,3);
 console.log(result);
 
 const num1=25;

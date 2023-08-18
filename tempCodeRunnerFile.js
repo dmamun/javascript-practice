@@ -1,1 +1,1 @@
-computer.processor('i9');
+  // society:"Earth Perfect"
